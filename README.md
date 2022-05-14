@@ -1,3 +1,1 @@
-# AdmissionApplySystem
-
-Project created by Alomgir Hossain and Md. Saidur Rahman (AFnaN)
+# This part of this project done by me.😇
